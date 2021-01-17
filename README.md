@@ -1,0 +1,2 @@
+# trivefunny
+trie
